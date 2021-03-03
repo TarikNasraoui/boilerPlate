@@ -1,0 +1,8 @@
+export const SET_DATA = "SET_DATA";
+export const GET_ASYNC_DATA = "GET_ASYNC_DATA";
+export const SET_DATA_REQUESTED = "SET_DATA_REQUESTED";
+export const SET_DATA_FAILED = "SET_DATA_FAILED";
+export const POST_ASYNC_DATA = "POST_ASYNC_DATA";
+export const POST_DATA = "POST_DATA";
+export const POST_CREATE_REQUEST = "POST_CREATE_REQUEST";
+export const POST_CREATE_FAIL = "POST_CREATE_FAIL";
